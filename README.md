@@ -1,5 +1,5 @@
-<H3>Name: Syed Abdul Wasih H</H3>
-<H3>Reg No: 212221240057</H3>
+<H3>Name: mohamed aseem p</H3>
+<H3>Reg No: 212221230063</H3>
 <H3>Ex No: 3</H3>
 <H3>Date: 04/03/2024</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
